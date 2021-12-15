@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UniSide</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Settings</string>
+    <string name="action_logout_text">Logout</string>
+
+    <string-array name="semester">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>m1</item>
+        <item>m2</item>
+    </string-array>
+
+    <string-array name="department">
+        <item>CCNE</item>
+        <item>ABC</item>
+        <item>CE</item>
+        <item>IME</item>
+    </string-array>
+
+    <string-array name="unis">
+        <item>Faculty of Technology-saida</item>
+
+    </string-array>
+
+
+    <string-array name="lang">
+        <item>English</item>
+        <item>Francais</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hours_id"
+        android:icon="@drawable/baseline_access_time_black_18dp"
+        android:title="24H-posts" />
+    <item
+        android:id="@+id/edu_id"
+        android:icon="@mipmap/edu"
+        android:title="Edu-Posts" />
+    <item
+        android:id="@+id/spons_id"
+        android:icon="@mipmap/spons"
+        android:title="Sponsored" />
+    <item
+        android:id="@+id/notf_id"
+        android:enabled="false"
+        android:icon="@drawable/baseline_notifications_black_18dp"
+        android:title="Notifications"
+        android:visible="false" />
+</menu>
